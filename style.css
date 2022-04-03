@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, p, div, a{
 }
 
 .right-caption{
-    position: absolute;
+    position: relative;
     margin-bottom: -19%;
     bottom: 8px;
     right: 16px;
@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, p, div, a{
     top: 300%;
     left: 50%;
     transform: translate(-50%, -90%);
-    font-size:115px;
+    font-size: 115px;
     font-family: 'Dancing Script', cursive;
     color: #ffff;
 }
